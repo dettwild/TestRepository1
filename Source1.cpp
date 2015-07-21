@@ -1,6 +1,6 @@
 main()
 {
-	print ("Hello World")
+	print("Hello World")
 
-## this program does not actually work ##
+## this program does not actually work   --- you are probably right ;-) ##
 }
