@@ -1,2 +1,4 @@
 Das hier ist ein Textfile
 
+und das ist eine BOESE Zeile
+
